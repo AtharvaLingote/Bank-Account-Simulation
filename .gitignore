@@ -1,0 +1,17 @@
+# === Java Build ===
+*.class
+
+# === IDE Config ===
+.vscode/
+.idea/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Log Files ===
+*.log
+
+# === Local Runtime Files ===
+data/balance.txt
+data/transactions.txt
